@@ -406,6 +406,17 @@ h2{ font-size: 40px; }
   outline-offset: 3px;
 }
 
+.logoRow {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.logoPill {
+  display: block;
+}
+
 /* =========================================================
    Footer
    ========================================================= */
